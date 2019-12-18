@@ -1,0 +1,56 @@
+    #content #tp ul{
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    #content #tp{
+        width: 830px;
+        height: 470px;
+    }
+    #content #tp .tpbox{
+        position: relative;
+    }
+    #content #tp .tpbox ul li{
+        width: 207.5px;
+        height: 470px;
+        float: left;
+        transition: 1s;
+    }
+    #content #tp img{
+        height: 470px;
+        display: block;
+    }
+    #content #tp .tp1{
+        background: url(../images/1.jpg) no-repeat 50% 50%;
+        height: 470px;
+        opacity: .5;
+        font-size: 32px;
+        text-align: center;
+        line-height: 470px;
+    }
+    #content #tp .tp2{
+        background: url(../images/2.jpg) no-repeat 50% 50%;
+        height: 470px;
+        opacity: .5;
+        font-size: 32px;
+        text-align: center;
+        line-height: 470px;
+    }
+
+    #content #tp .tp3{
+        background:url(../images/3.jpg)no-repeat 50% 50%;
+        height: 470px;
+        opacity: .5;
+        font-size: 32px;
+        text-align: center;
+        line-height: 470px;
+    }
+
+    #content #tp .tp4{
+        background: url(../images/4.jpg) no-repeat 100% 100%;
+        height: 470px;
+        opacity: .5;
+        font-size: 32px;
+        text-align: center;
+        line-height: 470px;
+    }
